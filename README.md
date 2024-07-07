@@ -1,5 +1,10 @@
 ## Hi there 👋
+
 - 🔭 I’m currently working on ...
+   - Next.js
+   - React
+   - TypeScript
+   -   　　
 - 🌱 I’m currently learning ...
 
 <!--
