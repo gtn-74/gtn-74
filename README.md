@@ -1,23 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...  
-     SES企業の派遣部門のフロントエンドエンジニアとして働いています。
+- 🔭 I’m currently working on TypeScript・Next.js
+     SES企業の派遣部門のフロントエンドエンジニアとして働いています。  
 
-- 技術スタック　　
-   - Next.js
-   - React
-   - TypeScript
-   - MUI
-   - styled components
-   - emotion
-   - dndkit
-   - storybook
-   - jest
-   - testing library
-
-- 🌱 I’m currently learning ...  
+- 🌱 I’m currently learning TypeScript  
      TypeScriptをベースにエンジニアとしての技術力向上を目指しています。  
-     今後は、バックエンドエンジニアに転向したいと考えています。　　
+     今後はバックエンドエンジニアに転向したいと考えています。　　
 
 - 現在学んでいる技術スタック  
    - supabase
