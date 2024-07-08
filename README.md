@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on TypeScript・Next.js
+- 🔭 I’m currently working on TypeScript・Next.js  
      SES企業の派遣部門のフロントエンドエンジニアとして働いています。  
 
 - 🌱 I’m currently learning TypeScript  
