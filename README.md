@@ -14,7 +14,7 @@
    - hono
    - Github actions
    - Docker
-   - 
+   - postgreSQL
 
 <!--
 **gtn-74/gtn-74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
