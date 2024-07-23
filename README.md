@@ -9,7 +9,11 @@ I work as a front-end engineer for the temporary staffing division of an SES com
 ## 🔭 I’m currently working on
 I write TypeScript & Javascript at work.  
 
-<img src="https://img.shields.io/badge/-Typescript-fff.svg?logo=typescript&style=plastic">  <img src="https://img.shields.io/badge/-Javascript-fff.svg?logo=javascript&style=popout">
+<img src="https://img.shields.io/badge/-Typescript-fff.svg?logo=typescript&style=plastic">  <img src="https://img.shields.io/badge/-Javascript-fff.svg?logo=javascript&style=popout">  
+
+
+## 💻　Technology stack currently being studied　　
+<img src="https://img.shields.io/badge/-Supabase-000.svg?logo=supabase&style=plastic">  <img src="https://img.shields.io/badge/-Graphql-E10098.svg?logo=graphql&style=plastic">  <img src="https://img.shields.io/badge/-Prisma-512DA8.svg?logo=Prisma&style=plastic">  <img src="https://img.shields.io/badge/-hono-fff.svg?logo=hono&style=plastic">  <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">  <img src="https://img.shields.io/badge/-Docker-fff.svg?logo=docker&style=plastic">  <img src="https://img.shields.io/badge/-Postgresql-fff.svg?logo=postgresql&style=plastic">  
   
   
 <!--
@@ -17,7 +21,7 @@ I write TypeScript & Javascript at work.
      TypeScriptをベースにエンジニアとしての技術力向上を目指しています。  
      今後はバックエンドエンジニアに転向したいと考えています。　　
 
-- 現在学んでいる技術スタック  
+- 
    - supabase
    - GraphQL
    - Prisma
