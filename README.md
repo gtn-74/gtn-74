@@ -8,7 +8,8 @@ I work as a front-end engineer for the temporary staffing division of an SES com
 
 ## 🔭 I’m currently working on
 I write TypeScript & Javascript at work.  
-  <img src="https://img.shields.io/badge/-Typescript-fff.svg?logo=typescript&style=plastic">  <img src="https://img.shields.io/badge/-Javascript-fff.svg?logo=javascript&style=popout">
+
+<img src="https://img.shields.io/badge/-Typescript-fff.svg?logo=typescript&style=plastic">  <img src="https://img.shields.io/badge/-Javascript-fff.svg?logo=javascript&style=popout">
   
   
 <!--
