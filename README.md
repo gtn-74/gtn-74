@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I can do it　　
+## My abilities
 I work as a front-end engineer for the temporary staffing division of an SES company.  
 
 <img src="https://img.shields.io/badge/-FrontendEngineer-00A98F.svg?logo=&style=plastic">  
