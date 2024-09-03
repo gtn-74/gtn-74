@@ -14,11 +14,11 @@ I work as a front-end engineer for the temporary staffing division of an SES com
   </a>
 <a href="https://zenn.dev/gtn74"><img src="https://badgen.org/img/zenn/gtn74/articles?style=plastic" alt="Articles" /></a><br>
 <br>
-<a href="https://github.com/gtn-74/github-readme-stats">
+<a href="">
     <img width="355" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtn-74&layout=compact" />
   </a>
 
-<a href="https://github.com/gtn-74/github-readme-stats">
+<a href="">
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=gtn-74&show_icons=true&theme=radical" />
   </a>
 
