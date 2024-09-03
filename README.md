@@ -18,7 +18,7 @@ I work as a front-end engineer for the temporary staffing division of an SES com
     <img width="355" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtn-74&layout=compact" />
   </a>
 
-<a href="">
+<a href="https://github.com/gtn-74/github-readme-stats">
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=gtn-74&show_icons=true&theme=radical" />
   </a>
 
