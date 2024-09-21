@@ -12,7 +12,8 @@ I work as a front-end engineer for the temporary staffing division of an SES com
 <a href="https://github.com/gtn-74">
     <img height="20" src="https://img.shields.io/github/followers/gtn-74?label=follow&logo=github&style=flat" />
   </a>
-<a href="https://zenn.dev/gtn74"><img src="https://badgen.org/img/zenn/gtn74/articles?style=plastic" alt="Articles" /></a><br>
+<a href="https://zenn.dev/gtn74"><img src="https://badgen.org/img/zenn/gtn74/articles?style=plastic" alt="Articles" /></a>
+<a href="https://qiita.dev/gtn74"><img src="https://badgen.org/img/qiita/gtn74/articles?style=plastic" alt="Articles" /></a><br>
 <br>
 <a href="">
     <img width="355" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtn-74&layout=compact" />
