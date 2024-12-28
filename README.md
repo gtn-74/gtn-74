@@ -23,6 +23,7 @@ I work as a front-end engineer for the temporary staffing division of an SES com
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=gtn-74&show_icons=true&theme=radical" />
   </a>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gtn-74&theme=2077)
 
   
 <!--
