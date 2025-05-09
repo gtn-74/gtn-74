@@ -13,21 +13,22 @@ I work as a front-end engineer for the temporary staffing division of an SES com
     <img height="20" src="https://img.shields.io/github/followers/gtn-74?label=follow&logo=github&style=flat" />
   </a>
 <a href="https://zenn.dev/gtn74"><img src="https://badgen.org/img/zenn/gtn74/articles?style=plastic" alt="Articles" /></a>
-<a href="https://qiita.com/gtn74"><img src="https://badgen.org/img/qiita/gtn74/articles?style=plastic" alt="Articles" /></a><br>
-<be>
+<a href="https://qiita.com/gtn74"><img src="https://badgen.org/img/qiita/gtn74/articles?style=plastic" alt="Articles" /></a>
+<br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gtn-74&theme=2077)
 
+<div>
 <a href="">
     <img width="355" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtn-74&layout=compact" />
-  </a>
+</a>
 
 <a href="">
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=gtn-74&show_icons=true&theme=radical" />
-  </a>
-
+</a>
+</div>
 <!--START_SECTION:lapras-card-->
-<p align="center"><a href="https://lapras.com/public/DJFNI65" target="_blank" rel="noopener noreferrer"><img alt="DJFNI65のLAPRASでのスコアは次の通りです: エンジニアリング: 3.37 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.25 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.37&b=3.48&i=3.25&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+<p style="margin-top:20px;"><a href="https://lapras.com/public/DJFNI65" target="_blank" rel="noopener noreferrer"><img alt="DJFNI65のLAPRASでのスコアは次の通りです: エンジニアリング: 3.37 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.25 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.37&b=3.48&i=3.25&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
 Last Updated on 5/9/2025, 1:55:21 PM</p>
 <!--END_SECTION:lapras-card-->
 
