@@ -14,7 +14,10 @@ I work as a front-end engineer for the temporary staffing division of an SES com
   </a>
 <a href="https://zenn.dev/gtn74"><img src="https://badgen.org/img/zenn/gtn74/articles?style=plastic" alt="Articles" /></a>
 <a href="https://qiita.com/gtn74"><img src="https://badgen.org/img/qiita/gtn74/articles?style=plastic" alt="Articles" /></a><br>
-<br>
+<be>
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gtn-74&theme=2077)
 
