@@ -28,8 +28,8 @@ I work as a front-end engineer for the temporary staffing division of an SES com
 </a>
 </div>
 <!--START_SECTION:lapras-card-->
-<p style="margin-top:20px;"><a href="https://lapras.com/public/DJFNI65" target="_blank" rel="noopener noreferrer"><img alt="DJFNI65のLAPRASでのスコアは次の通りです: エンジニアリング: 3.37 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.25 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.37&b=3.48&i=3.25&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 5/9/2025, 1:55:21 PM</p>
+<p align="center"><a href="https://lapras.com/public/DJFNI65" target="_blank" rel="noopener noreferrer"><img alt="DJFNI65のLAPRASでのスコアは次の通りです: エンジニアリング: 3.37 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.26 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.37&b=3.48&i=3.26&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 5/10/2025, 12:44:56 AM</p>
 <!--END_SECTION:lapras-card-->
 
 
