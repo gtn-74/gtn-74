@@ -1,39 +1,55 @@
 # Hi there 👋
 
 ## My abilities
-I work as a front-end engineer for the temporary staffing division of an SES company.  
 
-<img src="https://img.shields.io/badge/-FrontendEngineer-00A98F.svg?logo=&style=plastic">  
+I work as a front-end engineer for the temporary staffing division of an SES company.
 
- ### My Status...
- <a href="https://github.com/gtn-74/gtn-74/">
-    <img src="https://komarev.com/ghpvc/?username=gtn-74" alt="gtn-74" />
-  </a>
+<img src="https://img.shields.io/badge/-FrontendEngineer-00A98F.svg?logo=&style=plastic">
+
+### My Status...
+
+<a href="https://github.com/gtn-74/gtn-74/">
+  <img src="https://komarev.com/ghpvc/?username=gtn-74" alt="gtn-74" />
+</a>
 <a href="https://github.com/gtn-74">
-    <img height="20" src="https://img.shields.io/github/followers/gtn-74?label=follow&logo=github&style=flat" />
-  </a>
-<a href="https://zenn.dev/gtn74"><img src="https://badgen.org/img/zenn/gtn74/articles?style=plastic" alt="Articles" /></a>
-<a href="https://qiita.com/gtn74"><img src="https://badgen.org/img/qiita/gtn74/articles?style=plastic" alt="Articles" /></a>
-<br>
+  <img height="20" src="https://img.shields.io/github/followers/gtn-74?label=follow&logo=github&style=flat" />
+</a>
+<a href="https://zenn.dev/gtn74">
+  <img src="https://badgen.org/img/zenn/gtn74/articles?style=plastic" alt="Articles" />
+</a>
+<a href="https://qiita.com/gtn74">
+  <img src="https://badgen.org/img/qiita/gtn74/articles?style=plastic" alt="Articles" />
+</a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gtn-74&theme=2077)
 
-<div>
-<a href="">
-    <img width="355" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtn-74&layout=compact" />
-</a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gtn-74&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=gtn-74&show_icons=true&theme=radical" />
-</a>
-</div>
-<!--START_SECTION:lapras-card-->
-<p align="center"><a href="https://lapras.com/public/DJFNI65" target="_blank" rel="noopener noreferrer"><img alt="DJFNI65のLAPRASでのスコアは次の通りです: エンジニアリング: 3.41 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.32 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.41&b=3.48&i=3.32&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 1/30/2026, 1:02:13 AM</p>
-<!--END_SECTION:lapras-card-->
+<table>
+  <tr>
+    <td>
+      <!--START_SECTION:lapras-card-->
+      <a href="https://lapras.com/public/DJFNI65" target="_blank" rel="noopener noreferrer">
+        <img alt="DJFNI65のLAPRASでのスコアは次の通りです: エンジニアリング: 3.41 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.32 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.41&b=3.48&i=3.32&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" />
+      </a>
+      <br>
+      Last Updated on 1/30/2026, 1:02:13 AM
+      <!--END_SECTION:lapras-card-->
+    </td>
+    <td>
+      <a href="">
+        <img width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtn-74&layout=compact" />
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img src="https://github-readme-stats.vercel.app/api?username=gtn-74&show_icons=true&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-  
 <!--
 - 🌱 I’m currently learning TypeScript  
      TypeScriptをベースにエンジニアとしての技術力向上を目指しています。  
